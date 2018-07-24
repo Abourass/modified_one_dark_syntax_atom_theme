@@ -1,0 +1,16 @@
+{
+  "name": "modified-one-dark-syntax",
+  "theme": "Modsyntax",
+  "version": "1.0.0",
+  "description": "A modified dark syntax theme",
+  "keywords": [
+    "dark",
+    "blue",
+    "syntax"
+  ],
+  "repository": "https://github.com/Abourass/modified_one_dark_syntax_atom_theme.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
